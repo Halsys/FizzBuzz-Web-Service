@@ -1,0 +1,24 @@
+{
+	"name": "fizz-buzz-web-service",
+	"version": "0.1.0",
+	"description": "Voyant assignment 3 - FizzBuzz Web Service ",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Halsys/FizzBuzz-Web-Service.git"
+	},
+	"keywords": ["Assignment", "FizzBuzz", "Fizz", "Buzz", "ExpressJS"],
+	"author": "Cory Null (Noll) Crimmins - Golden",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Halsys/FizzBuzz-Web-Service/issues"
+	},
+	"homepage": "https://github.com/Halsys/FizzBuzz-Web-Service#readme",
+	"dependencies": {
+		"express": "^4.16.3"
+	}
+}
